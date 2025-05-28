@@ -21,3 +21,9 @@ The  App was developed as part of the Institute Building Project at Lloyd  Insti
 1. Run the app on an emulator or a physical device.
 2. Register or log in using your credentials.
 3. Select your Hostel service and manage your requests.
+
+
+##  I'm currently seeking collaborators to join this project! 
+
+Requirements:
+- Able to handle Frontend or Backend  and Firestore Database
